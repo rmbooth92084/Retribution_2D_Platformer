@@ -20,10 +20,13 @@ https://youtu.be/S43YwCo1bR0
  - Giovanni Costagliola
  - Mel اَسغری 
 
-## ScreenShots
+## Screenshots
 
 ![1_1 1 1](https://user-images.githubusercontent.com/17556598/180071670-3c84b0ac-7748-44bd-871f-c77055372d4a.png)
-![[3_1 1 3](https://user-images.githubusercontent.com/17556598/180071764-7abea880-07a2-40be-bcaf-1f000c5b17e2.png)
+![2_1 1 2](https://user-images.githubusercontent.com/17556598/180072384-ee8bf823-8d92-4524-9ef0-291bff0b5984.png)
+![3_1 1 3](https://user-images.githubusercontent.com/17556598/180072391-8d7e5b46-f6ac-41c5-a364-a434e107bde8.png)
+![4_1 1 4](https://user-images.githubusercontent.com/17556598/180072405-c48d517f-1e3b-44d6-9769-b5230b3f6a7e.png)
+
 
 ## Attributions
 Health Bar Sprite - Public Domain, Healthboost Orb - Pulbic Domain, Tileset/Environment for Floor 2 - Public Domain (modified), A Awal Ramadhan Font - Public Domain (modified), Wizard Boss Sprites/Animations - Public Domain, Mixkit-magic-sweek-game-trophy-257 - Public Domain
